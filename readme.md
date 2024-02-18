@@ -56,6 +56,8 @@ go run cmd/backpack/main.go -c ./etc
 
 ![start](images/backpack/backpack_start.png)
 
+![order](images/backpack/order.png)
+
 
 ```
 ctrl + c 退出刷单
