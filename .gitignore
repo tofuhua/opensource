@@ -1,0 +1,7 @@
+.vscode
+.idea
+*.DS_Store
+
+bin
+etc/*.yaml
+etc/*.json

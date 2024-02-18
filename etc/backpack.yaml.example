@@ -1,0 +1,9 @@
+api:
+    account: main
+    key: 
+    secret: 
+exchange:
+    amount: 0.2
+    buy_symbol: USDC
+    sell_symbol: SOL
+    symbol: SOL_USDC
